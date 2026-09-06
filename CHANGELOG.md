@@ -1,3 +1,6 @@
+## Version 24
+ * Add GNOME 51 to metadata
+ * Refactor device creation and destruction
 ## Version 23
  * Gnome 50 support
  * Fix clicking on the 'hide old devices' setting toggling the 'hide ELAN devices' setting
